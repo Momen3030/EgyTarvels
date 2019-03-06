@@ -1,0 +1,308 @@
+*,html{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  
+
+}
+body {
+  font-family: Tahoma;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.6em;
+  color: #000;
+  background: url(http://terra-egypt.com/wp-content/uploads/2018/04/FULSON_GRIS_web.jpg) repeat #fefefe;
+  /* width: 100%; */
+  background-color: #eee;
+   min-height: 1200px;
+  
+
+}
+
+:root{
+ --maincolor:#C5660F;
+}
+
+nav {
+background:var(--maincolor) !important;
+}
+
+.logimg{
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.main-border-radius{
+  border-radius: 10px;
+}
+
+.nav-item{
+margin-left: 2px !important;
+margin-right: 4px !important;
+}
+
+.navbar-toggler-icon{
+ color: rgb(240, 232, 232) !important;
+}
+
+
+.nav-link{
+  color: white !important;
+}
+
+  .dropdown-item:hover {
+    background-color: var(--maincolor) !important ;
+}
+
+.footer{
+  width: 100%;
+  margin-left:0px;
+  margin-right: 0px;
+  background-color: var(--maincolor);
+  padding: .1em;
+  margin-top: 2px;
+
+}
+.footer li  {
+  list-style-type: none;
+  margin-top:1px; 
+}
+.footer li a{
+
+   text-decoration: none;
+   color: white;
+}
+.footer li a:hover{
+  color: #eee;
+}
+
+
+
+.main ul li  {
+
+  display: inline-block;
+  padding: .3rem 
+}
+.main   ul li  a,  ul li  a:hover {
+  text-decoration: none;
+   color: white;
+}
+
+
+
+  .leftsideofmain{
+    height: 220px;
+    width: 280px;
+    border: 1px solid #4879D3;
+    background: #6596EE;
+    overflow: hidden;
+  }
+
+  .sprator li+li:before{
+    content: "|";
+    color:blue;
+    }
+
+  .contentofbody
+  {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+  }
+
+
+  .slider{
+    background-color: white;
+    border-bottom: 13px orange solid;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+  }
+
+
+  .kwicks > li{
+    background-color:white !important;
+  }
+  .main ul li {
+     padding: 0;
+  }
+
+
+
+  #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 5px;
+    right: 2px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color:  #555;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  #myBtn:hover {
+    background-color: gray;
+  }
+  
+
+
+  .centered {
+    position: absolute; 
+    top: 150px; 
+    left:10px; 
+    width: 100%; 
+    /* font-weight: bold;
+    font-size: 30px; */
+    color: #fff;
+    /* transform: translate(-50%, -50%); */
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+[class^="entypo-"]:before {
+	font-family: 'entypo', sans-serif;
+}
+
+#social-sidebar {
+	left: 0;
+	position: fixed;
+	top: 30%;
+}
+
+#social-sidebar li:first-child a { border-top-right-radius: 5px; }
+#social-sidebar li:last-child a { border-bottom-right-radius: 5px; }
+
+#social-sidebar a {
+	color: #fff;
+  text-decoration: none;
+	display: block;
+	height: 50px;
+	width: 50px;  
+	font-size: 24px;
+	line-height: 50px;
+	position: relative;
+	text-align: center;
+  cursor: pointer;
+}
+
+#social-sidebar a:hover span {
+	left: 120%;
+	opacity: 1;
+}
+
+#social-sidebar a span {
+  font: 12px "Open Sans", sans-serif;
+  text-transform: uppercase;
+	border-radius: 3px;
+	line-height: 24px;
+	left: -100%;
+	margin-top: -16px;
+	opacity: 0;
+	padding: 4px 8px;
+	position: absolute;
+	transition: opacity .3s, left .4s;
+	top: 50%;
+	z-index: -1;
+}
+
+#social-sidebar a span:before {
+	content: "";
+	display: block;
+	height: 8px;
+  width: 8px;
+	left: -4px;
+	margin-top: -4px;
+	position: absolute;
+	top: 50%;
+	transform: rotate(45deg);
+}
+
+
+
+#social-sidebar a[class*="facebook"]:hover,
+#social-sidebar a[class*="facebook"] span,
+#social-sidebar a[class*="facebook"] span:before,
+#social-sidebar a[class*="facebook"]
+{background: #3B5998;}
+
+
+#social-sidebar a[class*="twitter"]:hover,
+#social-sidebar a[class*="twitter"] span,
+#social-sidebar a[class*="twitter"] span:before,
+#social-sidebar a[class*="twitter"] 
+{background: #6CDFEA;}
+
+
+
+
+#social-sidebar a[class*="youtube"]:hover,
+#social-sidebar a[class*="youtube"] span,
+#social-sidebar a[class*="youtube"] span:before,
+#social-sidebar a[class*="youtube"]
+ {background: #CD181F;}
+
+
+
+#social-sidebar a[class*="gplus"]:hover,
+#social-sidebar a[class*="gplus"] span,
+#social-sidebar a[class*="gplus"] span:before,
+#social-sidebar a[class*="gplus"]
+ {background: #E34429;}
+
+ 
+
+
+
+ 
+#social-sidebar a[class*="linkein"]:hover,
+#social-sidebar a[class*="linkein"] span,
+#social-sidebar a[class*="linkein"] span:before,
+#social-sidebar a[class*="linkein"]
+ {background: #007BB6;}
+
+
+
+
+#social-sidebar a[class*="blog"]:hover,
+#social-sidebar a[class*="blog"] span,
+#social-sidebar a[class*="blog"] span:before,
+#social-sidebar a[class*="blog"]
+ {background: #FF6501;}
+
+
+
+ 
+#social-sidebar a[class*="share"]:hover,
+#social-sidebar a[class*="share"] span,
+#social-sidebar a[class*="share"] span:before,
+#social-sidebar a[class*="share"]
+ {background: #017F49;}
+
