@@ -6,7 +6,7 @@
 <div class="container main mt-4">
   
 <div class="row"> <!-- start main frist row -->
-  <div class="col-sm-4 leftsideofmain">
+  <div class=" col-lg-4   col-sm-12  leftsideofmain">
      <ul class="sprator">
        <li>
          <a href="#" title="How We Work"> How We Work</a>
@@ -30,7 +30,7 @@
   </div>
 
   
-  <div class="col-sm-4 d-flex justify-content-sm-center ">
+  <div class="  col-lg-4  col-sm-12  d-flex justify-content-sm-center ">
      <h3 class="mt-5" style="font-family: Tahoma;
     font-weight: 700;
     line-height: 1.1em;
@@ -38,8 +38,22 @@
     color: #333;">  Your Guide to The World </h3>
    </div>
 
-  <div class="col-sm-4 leftsideofmain">
-    wather loaded
+  <div class=" col-lg-4  col-sm-12 leftsideofmain">
+    
+      
+    
+   <iframe  src="https://www.meteoblue.com/en/weather/widget/daily/egypt_south-africa_1006525?geoloc=fixed&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  
+    frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 100%;height: 100%"></iframe>
+   
+    <div ><!-- DO NOT REMOVE THIS LINK -->
+    <a href="https://www.meteoblue.com/en/weather/forecast/week/egypt_south-africa_1006525?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank">
+    meteoblue</a> 
+   </div>
+  
+  
+
+  
+
   </div>
   
 

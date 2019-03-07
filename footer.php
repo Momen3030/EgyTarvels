@@ -76,7 +76,7 @@
 
 
 <!-- Start footer   -->
-<footer class="footer">
+<footer class="footer footer-fixed-bottom  ">
 
   <div class="container mt-5">
 		<div class="row">

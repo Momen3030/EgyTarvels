@@ -23,29 +23,46 @@
 				margin-left: 0px;
 				float: left;
 			}
-		</style>
-</head>
-<body>
+    </style>
+
+<body id="body">
   <!-- Start header -->
 <header class="mb-1">
 <div class="container mb-1 mt-5">   <!-- Start  container header  -->
 
 <div class="row"> <!-- Start  row header  -->
 
- <div class=" col-sm-4  mb-3 "> <img  class="logimg" width="70%" height="auto" src="images/loge.jpg"> </div>
+ <div class="col-lg-4 col-sm-12 mb-3 "> <img  class="logimg" width="70%" height="auto" src="images/loge.jpg"> </div>
  
- <div class=" col-sm-4 mb-1  p-0 mt-3"> <h5 style="font-weight: bold;">Best Deals With Travel Agencies </h5></div>
+ <div class=" col-lg-4 col-sm-12 p-0 mt-4"> <h6 style="font-weight: bold;">Best Deals With Travel Agencies </h6></div>
 
- <div class=" col-sm-4 mb-1  mt-3"> <!-- Start  search col   -->
-   <div class="d-flex justify-content-start wrap"> <!-- Start  search row   -->
-      <form class="d-flex justify-content-start p-1">
-                <input type="text" class="form-control main-border-radius d-inline-block " placeholder="Search">
-                <button  type="submit" class="btn btn-sm btn-dark main-border-radius d-inline-block ml-1" > Search </button>
-      </form>
-        <a href="registration-travel.php"  title="registration travel" class="btn btn-sm btn-primary main-border-radius" style="padding-left: 10px;
-    padding-right: 10px;
-    margin-top: 4px;">Rgister Now </a> 
-   </div> <!-- End  search row   -->
+ <div class="  col-lg-4 col-sm-12 mb-1  mt-3"> <!-- Start  search col   -->
+  <div class="row p-0 ">
+
+  <div class=" col-lg-8 p-0  col-sm-12">
+   <form action="" method="post">
+<div class="row">
+<div class=" col-lg-7  mr-0  mb-2 col-sm-12 col-md-12">
+  <input type="text" class="form-control main-border-radius "  required name="search"  placeholder="Search">
+</div>
+
+<div class=" col-lg-5 col-sm-12  mr-0  mb-2 col-md-12">
+  <input type="submit" class="btn btn-md btn-dark main-border-radius   mmargain " value="Search">
+</div>
+</div>
+   </form>
+   </div>
+
+   <div class=" col-lg-4  col-md-12  col-sm-12">
+     
+   <a href="registration-travel.php" class="btn btn-md btn-primary main-border-radius  rmmargain " > Rgister Now </a>
+    </div>
+
+
+
+
+  </div>  
+
 </div><!-- End  search col   -->
 
 </div> <!-- End  row header  -->
@@ -167,6 +184,5 @@
 </nav>
 
 </header> <!-- End header -->
-
 
 

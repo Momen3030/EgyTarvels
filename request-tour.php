@@ -2,6 +2,7 @@
 
 
 
+<div class="container-fluid">
 
 <div class="row mt-5 mb-5">
 <!-- start row -->
@@ -276,7 +277,7 @@ When you press Send You Agree And Accept The </font></font><a href="https://web.
 </div><!-- End row -->
 
 
-
+</div>
 
 
 

@@ -2,7 +2,7 @@
 
 
 
-
+<div class="container-fluid">
 <div class="row mt-5 mb-5">
 
 <div class="col-sm-1"></div>
@@ -65,7 +65,7 @@
 </div>
 
 
-
+</div>
 
 
 

@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 
 
-
+<div class="container-fluid">
 
 <div class="row mt-5 mb-5"> 
 <!--  start row -->
@@ -119,7 +119,7 @@ By clicking register you agree and accept the </font></font><a href="https://web
 
 
 
-
+</div>
 
 
 
