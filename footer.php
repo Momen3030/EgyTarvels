@@ -237,7 +237,7 @@
 		<div class="container" style="background-color:black">
 			<div class="row">
 				<div class="col-lg-12 text-center p-4" style="color:white;" >
-					<h6 class="p-1 mt-2">	Copyright @ 2015 , Egypt Travel Tips  </h6>	
+					<h6 class="p-2 mt-2">	Copyright @ 2015 , Egypt Travel Tips  </h6>	
 				</div>
 
 

@@ -97,7 +97,7 @@
 
 <div  class="mb-2" style="direction:ltr;text-align:left;margin-left:18px;margin-top:-15px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 
-By clicking register you agree and accept the </font></font><a href="https://web.archive.org/web/20180214164203/http://www.egypttraveltips.com/egypt-64.html"><font color="#0404B4"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">policies</font></font></b></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> and   </font></font><a href="https://web.archive.org/web/20180214164203/http://www.egypttraveltips.com/egypt-65.html"><font color="#0404B4"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">terms of the</font></font></b></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Site 
+By clicking register you agree and accept the </font></font><a href="policy.php"><font color="#0404B4"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">policies</font></font></b></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> and   </font></font><a href="terms.php"><font color="#0404B4"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">terms of the</font></font></b></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Site 
 
 </font></font></div>
 
