@@ -1,7 +1,7 @@
 
 <?php include 'header.php';?>
-<div class="container-fluid">
 
+<div class="container-fluid">
 <div class="row mt-5 mb-5"> 
 <!--  start row -->
 
@@ -13,8 +13,8 @@
 
 <div class="pagination">
   <a href="#">&laquo;</a>
-  <a  class="active" href="#">1</a>
-  <a  href="#">2</a>
+  <a class="active" href="#">1</a>
+  <a href="#">2</a>
   <a href="#">3</a>
   <a href="#">4</a>
   <a href="#">5</a>
