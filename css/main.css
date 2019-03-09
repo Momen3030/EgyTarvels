@@ -278,92 +278,12 @@ margin-right: 4px !important;
 } */
 
 
-@media (min-width: 576px) { 
-  .rmmargain{
-     margin-left:0px  !important;
-     -webkit-margin-left:0px  !important;
-     -moz-margin-left:0px  !important;
-     padding: 3px !important;
-     -webkit-padding: 3px !important;
-     -moz-padding: 3px !important;
-     width: 102% !important;
-     -webkit-width: 102% !important;
-     -moz-width: 102% !important;
-     display: block !important;
-     -webkit-display: block !important;
-     -moz-display: block !important;
-     border-radius:0px;
-     -webkit-border-radius:0px;
-     -moz-border-radius:0px;
-     -ms-border-radius:0px;
-     -o-border-radius:0px;
-}
-    .mmargain {
-     margin-left:11px  !important;
-     -webkit-margin-left:11px  !important;
-     -moz-margin-left:11px  !important;
-     width: 98% !important;
-     -webkit-width: 98% !important;
-     -moz-width: 98% !important;
-     display: block !important;
-     -webkit-display: block !important;
-     -moz-display: block !important;
-     border-radius:0px;
-     -webkit-border-radius:0px;
-     -moz-border-radius:0px;
-     -ms-border-radius:0px;
-     -o-border-radius:0px;
-}
-}
-
-
-@media (min-width: 768px) { 
-  .rmmargain {
-    -webkit-margin-left: 0px !important;
-    -moz-margin-left: 0px !important;
-    margin-left: -24px !important;
-    -webkit-padding: 6px !important;
-    -moz-padding: 6px !important;
-    padding: 6px !important;
-    -webkit-width: 102% !important;
-    -moz-width: 102% !important;
-    width: 102% !important;
-    -webkit-display: block !important;
-    -moz-display: block !important;
-    display: block !important;
-    border-radius: 0px;
-    -webkit-border-radius: 0px;
-    -moz-border-radius: 0px;
-    -ms-border-radius: 0px;
-    -o-border-radius: 0px;
-}
-
-
-
-  .mmargain {
-    -webkit-margin-left:-17px  !important;
-    -moz-margin-left:-17px  !important;
-    margin-left:-17px  !important;
-    -webkit-width: 98% !important;
-    -moz-width: 98% !important;
-    border-radius:0px;
-    width: 98% !important;
-    -webkit-display: block !important;
-    -moz-display: block !important;
-    display: block !important;
-    -webkit-border-radius:0px;
-    -moz-border-radius:0px;
-    -ms-border-radius:0px;
-    -o-border-radius:0px;
-}
- }
 
 
 
 
 
-
- @media (min-width: 550px) { 
+ @media (min-width: 480px) and (max-width: 768px)  { 
   .rmmargain{
      margin-left:0px  !important;
      -webkit-margin-left:0px  !important;

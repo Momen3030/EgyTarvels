@@ -55,7 +55,7 @@
 
    <div class=" col-lg-4  col-md-12  col-sm-12">
      
-   <a href="registration-travel.php" class="btn btn-md btn-primary main-border-radius  rmmargain " > Rgister Now </a>
+   <a href="registration-travel.php" class="btn btn-md btn-primary main-border-radius  rmmargain " > Rgister </a>
     </div>
 
 
